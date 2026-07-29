@@ -14,15 +14,6 @@ Aspiring Data Analyst based in Pune, India. I work with SQL, Python, Excel, and 
 
 ## Featured Projects
 
-### FIFA World Cup 2026 Style Analytics Dashboard
-
-Sports analytics dashboard analyzing player performance, scoring trends, xG, position-wise ratings, and team-level insights.
-
-- Built an interactive dashboard using HTML, Chart.js, and Python-generated analysis
-- Designed KPI cards and visual sections for scoring, performance, physical metrics, and team comparison
-- Practiced EDA, data storytelling, and dashboard layout for recruiter-friendly presentation
-
-Repository: https://github.com/RushikeshWaje-9220/fifa-wc2026-analysis
 
 ### HR Attrition Analysis and Prediction
 
