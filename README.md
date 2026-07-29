@@ -35,6 +35,17 @@ Used car price analysis and prediction project using regression models.
 
 Repository: https://github.com/RushikeshWaje-9220/car-price-prediction
 
+### Real Estate Portal With Price Prediction
+
+Django-based real estate web application with property listing, search, price prediction, and neighborhood analytics features.
+
+- Built a full-stack web application using Django and Bootstrap
+- Added search/filter workflows for property discovery
+- Included analytics-oriented features such as price prediction and investment calculations
+
+Repository: https://github.com/RushikeshWaje-9220/PropFinder-India---Django-Real-Estate-Portal
+
+
 ## What I Am Currently Improving
 
 - Writing SQL queries for joins, aggregations, window functions, and business reporting
